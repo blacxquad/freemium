@@ -45,7 +45,9 @@ Failure to provide accurate source attribution violates the license terms.
 
 <br><br><br><br>
 
-# The Modern Search Engineer's Guide: Mastering Search Engine Techniques
+# The Modern Search Engineer's Guide: Mastering Search Engine Techniques.
+
+<br><br>
 
 ## Introduction: The Superpower of Precision Search
 
